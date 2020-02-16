@@ -1,0 +1,12 @@
+E:\S2\IHM\Mini-Projet\MiniProjet\MiniProjet\bin\Debug\MiniProjet.exe.config
+I:\S2\IHM\Mini-Projet\MiniProjet\MiniProjet\bin\Debug\MiniProjet.exe.config
+I:\S2\IHM\Mini-Projet\MiniProjet\MiniProjet\obj\Debug\MiniProjet.vbprojResolveAssemblyReference.cache
+I:\S2\IHM\Mini-Projet\MiniProjet\MiniProjet\obj\Debug\MiniProjet.frmHomepage.resources
+I:\S2\IHM\Mini-Projet\MiniProjet\MiniProjet\obj\Debug\MiniProjet.Resources.resources
+I:\S2\IHM\Mini-Projet\MiniProjet\MiniProjet\obj\Debug\MiniProjet.vbproj.GenerateResource.Cache
+I:\S2\IHM\Mini-Projet\MiniProjet\MiniProjet\obj\Debug\MiniProjet.xml
+I:\S2\IHM\Mini-Projet\MiniProjet\MiniProjet\bin\Debug\MiniProjet.exe
+I:\S2\IHM\Mini-Projet\MiniProjet\MiniProjet\bin\Debug\MiniProjet.pdb
+I:\S2\IHM\Mini-Projet\MiniProjet\MiniProjet\bin\Debug\MiniProjet.xml
+I:\S2\IHM\Mini-Projet\MiniProjet\MiniProjet\obj\Debug\MiniProjet.exe
+I:\S2\IHM\Mini-Projet\MiniProjet\MiniProjet\obj\Debug\MiniProjet.pdb
